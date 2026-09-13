@@ -24,9 +24,10 @@ MAX_MB    = 200
 # Add the chat IDs or usernames you want to monitor
 # Examples: -1001234567890 or "mychannelusername" or "mygroupname"
 WATCH_CHATS = [
-    # -1001234567890,   # add your channel/group IDs here
-    # "channelname",
+    -1002512756597,    # DVG CLOUD OFICIAL
+    -1002624488640,    # COOL GIRLS › LOGS
 ]
+
 
 VALID_EXT = {'.rar', '.zip', '.txt', '.log', '.csv'}
 # ───────────────────────────────────────────────────────
